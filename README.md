@@ -1,21 +1,18 @@
-<h1 align="center">Hi 👋, let me show that CSS is easy</h1>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=cssiseasy&label=Profile%20views&color=0e75b6&style=flat" alt="cssiseasy" /> </p>--->
+<h1 align="center">Hi 👋, I'm Jean-Michel</h1>
+<h3 align="center">Lazyness, Impatience & Hubris.</h3>
 
-<!---<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/cssiseasy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cssiseasy" height="30" width="40" /></a>
-<a href="https://instagram.com/cssiseasy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cssiseasy" height="30" width="40" /></a>
-</p>--->
+<p align="left"><img src="https://skillicons.dev/icons?i=kotlin,ktor,graphql,heroku,idea,spring,postgres,git,github,bash,docker,ts,android&perline=16" alt="Tech Stack" /> </p>
 
-<h3 align="left">I love this languages</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 🗣 Languages: [**Kotlin** ❤️](https://kotlinlang.org/) - [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) - [TypeScript](https://www.typescriptlang.org/) - [Bash 💔](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) - [Français 🍼](https://en.wikipedia.org/wiki/French_language) - [English 🇺🇸](https://en.wikipedia.org/wiki/English_language) - [Deutsch 🇩🇪](https://en.wikipedia.org/wiki/German_language) - [Español 🇨🇴](https://en.wikipedia.org/wiki/Spanish_language)
 
-<h3 align="left">Also I love this tools</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cssiseasy&show_icons=true&locale=en&layout=compact" alt="cssiseasy" /></p>
+- 📝 I regulary not only code, but tons of words, on [**https://dev.to/jmfayard/**](https://dev.to/jmfayard/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cssiseasy&show_icons=true&locale=en" alt="cssiseasy" /></p>
+- 📫 You can reach me at [jmfayard@gmail.com](https://jmfayard.dev/contact/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cssiseasy&" alt="cssiseasy" /></p>
+- ⚡️ I work mainly [for Tignum](https://github.com/TIGNUM) and on [**refreshVersions**](https://github.com/jmfayard/refreshVersions)
+
+- ❤️ My other pet projects are [kotlin-playground](https://github.com/jmfayard/kotlin-playground) - [github-actions-kotlin-dsl](https://github.com/krzema12/github-actions-kotlin-dsl) - [kotlin-cli-starter](https://github.com/jmfayard/kotlin-cli-starter) - [kotlin-libraries-playground](https://github.com/LouisCAD/kotlin-libraries-playground)
+
+- 💪🏻 I contributed to [arrow](https://github.com/arrow-kt/arrow/issues?q=author%3Ajmfayard) - [clikt](https://github.com/ajalt/clikt/issues?q=author%3Ajmfayard) - [clikt](https://github.com/ajalt/clikt/issues?q=author%3Ajmfayard) - [CRUDlex](https://github.com/philiplb/CRUDlex/issues?q=author%3Ajmfayard) - [DEV-Android](https://github.com/forem/DEV-Android/issues?q=author%3Ajmfayard) - [forem](https://github.com/forem/forem/issues?q=author%3Ajmfayard) - [gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin/issues?q=author%3Ajmfayard) - [graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin/issues?q=author%3Ajmfayard) - [http4k](https://github.com/http4k/http4k/issues?q=author%3Ajmfayard) - [kotest](https://github.com/kotest/kotest/issues?q=author%3Ajmfayard) - [KotlinUnitTesting](https://github.com/rozkminiacz/KotlinUnitTesting/issues?q=author%3Ajmfayard) - [okio](https://github.com/square/okio/issues?q=author%3Ajmfayard) - [Orchid](https://github.com/orchidhq/Orchid/issues?q=author%3Ajmfayard) - [OrchidStarter](https://github.com/orchidhq/OrchidStarter/issues?q=author%3Ajmfayard) - [Splitties](https://github.com/LouisCAD/Splitties/issues?q=author%3Ajmfayard) - [tldr](https://github.com/tldr-pages/tldr/issues?q=author%3Ajmfayard) - [turtle](https://github.com/lordcodes/turtle/issues?q=author%3Ajmfayard)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmfayard&show_icons=true&locale=en" alt="jmfayard" /></p>

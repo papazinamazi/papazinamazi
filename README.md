@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">Let me show that CSS is easy</h3>
+<h1 align="center">Hi 👋 Let me show that CSS is easy!</h1>
+<h3 align="left">My favorite languages</h3>
 
 <p align="left"><img src="https://skillicons.dev/icons?i=html,css,javascript,scss,tailwind,pug,postgres,git,github,bash,docker,ts,android&perline=16" alt="Tech Stack" /> </p>
 

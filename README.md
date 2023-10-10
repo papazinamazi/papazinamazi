@@ -1,6 +1,6 @@
 ![Header](./banner.png)
 <h1 align="center">Hi 👋 Let me show that CSS is easy!</h1>
-<h3 align="left">My favorite languages&frameworks</h3>
+<h3 align="left">My favorite languages & frameworks</h3>
 
 <p align="left"><img src="https://skillicons.dev/icons?i=html,css,javascript,scss,tailwind,pug,git,github" alt="Tech Stack" /> </p>
 <h3 align="left">I also love this tools</h3>

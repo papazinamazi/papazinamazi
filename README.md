@@ -7,11 +7,11 @@
 
 <p align="left"><img src="https://skillicons.dev/icons?i=ae,ai,ps,pr" alt="Tech Stack" /> </p>
 
-- 🗣 Languages: [**Kotlin** ❤️](https://kotlinlang.org/) - [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) - [TypeScript](https://www.typescriptlang.org/) - [Bash 💔](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) - [Français 🍼](https://en.wikipedia.org/wiki/French_language) - [English 🇺🇸](https://en.wikipedia.org/wiki/English_language) - [Deutsch 🇩🇪](https://en.wikipedia.org/wiki/German_language) - [Español 🇨🇴](https://en.wikipedia.org/wiki/Spanish_language)
+<!--- - 🗣 Languages: [**Kotlin** ❤️](https://kotlinlang.org/) - [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) - [TypeScript](https://www.typescriptlang.org/) - [Bash 💔](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) - [Français 🍼](https://en.wikipedia.org/wiki/French_language) - [English 🇺🇸](https://en.wikipedia.org/wiki/English_language) - [Deutsch 🇩🇪](https://en.wikipedia.org/wiki/German_language) - [Español 🇨🇴](https://en.wikipedia.org/wiki/Spanish_language)--->
 
-- 📝 I regulary not only code, but tons of words, on [**https://dev.to/jmfayard/**](https://dev.to/jmfayard/)
-
-- 📫 You can reach me at [jmfayard@gmail.com](https://jmfayard.dev/contact/)
+<!--- - 📝 I regulary not only code, but tons of words, on [**https://dev.to/jmfayard/**](https://dev.to/jmfayard/)--->
+- 📝 I regularly educate people on my instagram [**https://instagram.com/cssiseasy/**](https://instagram.com/cssiseasy/)
+- 🤖 In this github I'll be posting source code for all my instagram projects 
 
 - ⚡️ I work mainly [for Tignum](https://github.com/TIGNUM) and on [**refreshVersions**](https://github.com/jmfayard/refreshVersions)
 

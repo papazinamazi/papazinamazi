@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Jean-Michel</h1>
-<h3 align="center">Lazyness, Impatience & Hubris.</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">Let me show that CSS is easy</h3>
 
-<p align="left"><img src="https://skillicons.dev/icons?i=kotlin,ktor,graphql,heroku,idea,spring,postgres,git,github,bash,docker,ts,android&perline=16" alt="Tech Stack" /> </p>
+<p align="left"><img src="https://skillicons.dev/icons?i=html,css,javascript,scss,tailwind,pug,postgres,git,github,bash,docker,ts,android&perline=16" alt="Tech Stack" /> </p>
 
 - 🗣 Languages: [**Kotlin** ❤️](https://kotlinlang.org/) - [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) - [TypeScript](https://www.typescriptlang.org/) - [Bash 💔](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) - [Français 🍼](https://en.wikipedia.org/wiki/French_language) - [English 🇺🇸](https://en.wikipedia.org/wiki/English_language) - [Deutsch 🇩🇪](https://en.wikipedia.org/wiki/German_language) - [Español 🇨🇴](https://en.wikipedia.org/wiki/Spanish_language)
 

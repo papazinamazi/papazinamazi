@@ -11,4 +11,4 @@
 - 🤖 In this github I'll be posting source code for all my instagram projects 
 - 👾 Unfortunately, I am not available for hire or to work on your projects. But I will be happy to help you if you have a question or a bug in the code
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmfayard&show_icons=true&locale=en" alt="jmfayard" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cssiseasy_icons=true&locale=en" alt="cssiseasy" /></p>

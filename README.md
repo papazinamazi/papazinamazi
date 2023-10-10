@@ -3,6 +3,9 @@
 <h3 align="left">My favorite languages</h3>
 
 <p align="left"><img src="https://skillicons.dev/icons?i=html,css,javascript,scss,tailwind,pug,git,github, android&perline=16" alt="Tech Stack" /> </p>
+<h3 align="left">I also love this tools</h3>
+
+<p align="left"><img src="https://skillicons.dev/icons?i=ae,ai,ps,pr,tailwind,pug,git,github, android&perline=16" alt="Tech Stack" /> </p>
 
 - 🗣 Languages: [**Kotlin** ❤️](https://kotlinlang.org/) - [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) - [TypeScript](https://www.typescriptlang.org/) - [Bash 💔](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) - [Français 🍼](https://en.wikipedia.org/wiki/French_language) - [English 🇺🇸](https://en.wikipedia.org/wiki/English_language) - [Deutsch 🇩🇪](https://en.wikipedia.org/wiki/German_language) - [Español 🇨🇴](https://en.wikipedia.org/wiki/Spanish_language)
 

@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋 Let me show that CSS is easy!</h1>
 <h3 align="left">My favorite languages & frameworks</h3>
 <p align="left"><img src="https://skillicons.dev/icons?i=html,css,javascript,scss,tailwind,pug,git,github" alt="Tech Stack" /> </p>
-
 <h3 align="left">I also love this tools</h3>
 <p align="left"><img src="https://skillicons.dev/icons?i=ae,ai,ps,pr" alt="Tech Stack" /> </p>
 - 📝 I post regularly content on my Instagram page [**https://instagram.com/cssiseasy/**](https://instagram.com/cssiseasy/). For more than four years, I have had many opportunities to work in a wide range of web technologies, which has allowed me to accumulate a significant amount of diverse experience.

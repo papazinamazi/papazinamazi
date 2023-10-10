@@ -12,8 +12,8 @@
 <!--- - 📝 I regulary not only code, but tons of words, on [**https://dev.to/jmfayard/**](https://dev.to/jmfayard/)--->
 - 📝 I regularly educate people on my instagram [**https://instagram.com/cssiseasy/**](https://instagram.com/cssiseasy/)
 - 🤖 In this github I'll be posting source code for all my instagram projects 
-
-- ⚡️ I work mainly [for Tignum](https://github.com/TIGNUM) and on [**refreshVersions**](https://github.com/jmfayard/refreshVersions)
+- 👾 Unfortunately, I am not available for hire or to work on your projects. But I will be happy to help you if you have a question or a bug in the code
+<!--- - ⚡️ I work mainly [for Tignum](https://github.com/TIGNUM) and on [**refreshVersions**](https://github.com/jmfayard/refreshVersions)--->
 
 - ❤️ My other pet projects are [kotlin-playground](https://github.com/jmfayard/kotlin-playground) - [github-actions-kotlin-dsl](https://github.com/krzema12/github-actions-kotlin-dsl) - [kotlin-cli-starter](https://github.com/jmfayard/kotlin-cli-starter) - [kotlin-libraries-playground](https://github.com/LouisCAD/kotlin-libraries-playground)
 

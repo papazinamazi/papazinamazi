@@ -1,4 +1,4 @@
-![Header](./banner.png)
+![Header](./banner1.png)
 <h1 align="center">Hi 👋 Let me show that CSS is easy!</h1>
 <h3 align="left">My favorite languages & frameworks</h3>
 
